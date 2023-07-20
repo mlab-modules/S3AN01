@@ -1,4 +1,4 @@
-description: null
+description: Xilinx Spartan 3 XC3S50AN FPGA School Board
 github_branch: S3AN01B
 github_repo: S3AN01
 github_url: https://github.com/mlab-modules/S3AN01
@@ -33,4 +33,9 @@ mark: 60
 tags:
 - mlab
 - mlab-module
+- development-board
+- fpga
+- verilog
+- mlab-development
+- cpld-fpga
 title: S3AN01
