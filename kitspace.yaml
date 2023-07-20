@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/S3AN01
-summary: null
+summary: Xilinx Spartan 3 XC3S50AN FPGA School Board
